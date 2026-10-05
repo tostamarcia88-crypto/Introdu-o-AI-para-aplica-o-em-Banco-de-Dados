@@ -1,2 +1,6 @@
 # Introdu-o-AI-para-aplica-o-em-Banco-de-Dados
 Lições introdutórias sobre IA generativa.
+O tema foi sobre noções introdutodutórias de IA generativa cujo objetivo foi aplicar o que foi aprendido em aula. 
+Foi adicionado material das aulas iniciais e adicionadas mais fontes das mais variaveis possibilitando uma maior confiabilidade.
+Foi questionado sobre Prompt, respectivo conceito, aplicação e exemplo.
+https://notebook.google.com/notebook/24a7558d-afca-4dc3-8e07-0b1f4f7979de
